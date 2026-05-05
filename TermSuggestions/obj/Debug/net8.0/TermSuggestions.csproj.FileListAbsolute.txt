@@ -1,0 +1,11 @@
+C:\Users\bahri\TermSuggestions\TermSuggestions\bin\Debug\net8.0\TermSuggestions.deps.json
+C:\Users\bahri\TermSuggestions\TermSuggestions\bin\Debug\net8.0\TermSuggestions.dll
+C:\Users\bahri\TermSuggestions\TermSuggestions\bin\Debug\net8.0\TermSuggestions.pdb
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.AssemblyInfoInputs.cache
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.AssemblyInfo.cs
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.csproj.CoreCompileInputs.cache
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.dll
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\refint\TermSuggestions.dll
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\TermSuggestions.pdb
+C:\Users\bahri\TermSuggestions\TermSuggestions\obj\Debug\net8.0\ref\TermSuggestions.dll
